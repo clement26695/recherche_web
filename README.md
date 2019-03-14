@@ -2,6 +2,18 @@
 
 Projet réalisé par *Pierre Mevel*, *Clement Dessoude* et *Sebastien Lubineau*
 
+
+## Project Set-up
+
+
+Make sure you have python installed on your computer, then install jupyter notebook.
+
+```
+pip install jupyter 
+# try the above if it didn't work
+pip3 install jupyter
+```
+
 ## Valeurs obtenues pour le nombre de tokens et la taille du vocabulaire
 
 Toutes les valeurs ont été obtenues après application de la stop-list (les mots jugés communs ont été retirés)
